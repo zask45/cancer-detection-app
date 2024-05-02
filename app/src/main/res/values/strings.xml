@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_error">Image classifier gagal diinisialisasi. Cek error logs untuk detail lebih lanjut.</string>
+    <string name="skin_cancer_detection">Skin Cancer Detection</string>
+    <string name="description">Deteksi dini kanker kulit dengan bantuan teknologi Machine Learning. Mohon diingat bahwa deteksi ini hanyalah deteksi dini. Disarankan untuk tetap berkonsultasi dengan dokter untuk diagnosis lebih lanjut.</string>
+    <string name="result_title">Hasil analisis</string>
+</resources>
